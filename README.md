@@ -1,7 +1,7 @@
 ### Olá! Eu sou Fábio Pedroza Martins.
 
 - 🔭 Hoje trabalho como Analista Protheus
-- 🌱 Estudando JAVA com Gama Academy e Banco PAN
+- 🌱 Apaixonado por tecnologia e estudante eterno. Conhecimento que me move.
 
  <div>
   <a href="https://github.com/fabiopedroza">
